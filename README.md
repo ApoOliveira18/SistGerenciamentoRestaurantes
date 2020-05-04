@@ -1,4 +1,4 @@
-<h1 align="center"><img src="MyTeach_SITE/img/logo_site_preta (1).ico " alt="Homepage" width="300"/></h1>
+<h1 align="center"><img src="SistemaGerRestaurante/assets/pdv/img/favicon.ico " alt="Homepage" width="400"/></h1>
 
 <h4 align="center"> 
 	:heavy_check_mark:  Plataforma de ensino online MyTeach :heavy_check_mark:
