@@ -1,4 +1,4 @@
-<h1 align="center"><img src="SistemaGerRestaurante/assets/pdv/img/Sanja2.png" alt="Logotipo" width="200"/></h1>
+<h1 align="center"><img src="SistemaGerRestaurante/assets/pdv/img/Sanja2.png" alt="Logotipo" width="300"/></h1>
 
 <h4 align="center"> 
 	:heavy_check_mark:  Plataforma de ensino online MyTeach :heavy_check_mark:
