@@ -56,21 +56,18 @@ sinergia e resultados positivos para a empresa, além de:</p>
 
 Este projeto foi desenvolvido com  as seguintes tecnologias:
 
-- [Asp.NET](https://dotnet.microsoft.com/apps/aspnet)
-- [CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [PHP](https://www.php.net/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://devdocs.io/html/) 
 - [CSS3](https://devdocs.io/css/)
-- [BootStrap](https://www.w3schools.com/bootstrap/default.asp)
-- [Java](https://docs.oracle.com/en/java/)
 - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-syntax-data-definition.html)
 
 ## :Softwares
 
 Os seguintes softwares foram utilizados neste projeto:
 
-- [Visual Studio 2017](https://visualstudio.microsoft.com/pt-br/) 
-- [Android Studio](https://developer.android.com/studio)
+- [VsCode](https://code.visualstudio.com/download) 
+- [Xamp](https://www.apachefriends.org/pt_br/download.html)
 - [Adobe](https://www.adobe.com/pt/creativecloud.html)
 - [Figma](https://www.figma.com/)
 
@@ -86,7 +83,7 @@ Artigos que estou a publicar no Medium que explica resumidamente cada metodologi
 
 ## :information_source: Como Usar
 
-Para executar essa aplicação você vai precisar de Visual Studio 2017, MySQL Server 5.5 and Android Studio 3.5 e o banco de dados do projeto para carregar os inserts do mesmo.
+Para executar essa aplicação você vai precisar de Xamp 3.2.1, PHP 5.3, MySQL Server 5.5 e o banco de dados do projeto para carregar os inserts do mesmo.
 
 ## :memo: Licença
 Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
