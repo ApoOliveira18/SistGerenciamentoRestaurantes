@@ -23,12 +23,14 @@
 ## 💻 Projeto
 <p>
     Este projeto visa permitir o gerenciamento e controle dos pedidos, estoque e caixa para gerar
-sinergia e resultados positivos para a empresa, além de:
-● Atingir uma melhoria nas vendas dos estabelecimentos.
-● Organizar o atendimento dos clientes.
-● Organizar os processos de produção dos alimentos na cozinha.
-● Ter um sistema de um custo muito baixo e que traga um alto benefício.
-● Ser um sistema leve e de fácil manutenção.<p>
+sinergia e resultados positivos para a empresa, além de:</p>
+<ul>	
+<li> Atingir uma melhoria nas vendas dos estabelecimentos.</li>
+<li> Organizar o atendimento dos clientes.</li>
+<li> Organizar os processos de produção dos alimentos na cozinha.</li>
+<li> Ter um sistema de um custo muito baixo e que traga um alto benefício.</li>
+<li> Ser um sistema leve e de fácil manutenção.</li>
+</ul>
 
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
