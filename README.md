@@ -11,20 +11,20 @@
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<
+ <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img  src="assets/int4.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img  src="assets/int5.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center" vetical-aling="top"> 
  
-  <img  src="assets/int6.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="assets/int7.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img  src="assets/int6.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int7.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p> 
 
 <p align="center" vetical-aling="top"> 
- <img  src="assets/int8.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
-  <img  src="assets/int9.png" alt="Interface PJM" title="Interface PJM" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="assets/int8.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	
+  <img  src="assets/int9.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
 
