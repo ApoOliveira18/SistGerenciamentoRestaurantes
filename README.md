@@ -22,13 +22,13 @@
 
 ## 💻 Projeto
 <p>
-    O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
-moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
-moedas - πJModel Return- para poder investir em outros cursos de nosso site. Ele
-foi pensado em atender a necessidade de atualização das informações para o
-mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
-e na vida econômica de nossos usuários pois comprando ele ganha mais que o
-curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
+    Este projeto visa permitir o gerenciamento e controle dos pedidos, estoque e caixa para gerar
+sinergia e resultados positivos para a empresa, além de:
+● Atingir uma melhoria nas vendas dos estabelecimentos.
+● Organizar o atendimento dos clientes.
+● Organizar os processos de produção dos alimentos na cozinha.
+● Ter um sistema de um custo muito baixo e que traga um alto benefício.
+● Ser um sistema leve e de fácil manutenção.<p>
 
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
