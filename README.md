@@ -6,18 +6,33 @@
 
 ## 🔖 Algumas Interfaces 
 <p align="center" vetical-aling="top">
- <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="assets/int1.png" alt="Homepage" title="Homepage" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src="assets/int2.png" alt="Moeda PJM" title="Moeda PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="MyTeach_SITE/Imagens/Curso/addCursos.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="MyTeach_SITE/Imagens/Curso/cursoMath.png" alt="Cursos" title="Cursos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+ <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int4.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 </p>
 
 <p align="center" vetical-aling="top"> 
-  <img  src="MyTeach_SITE/Imagens/Curso/imgPJM.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="MyTeach_SITE/Imagens/Curso/meusPagtos.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int5.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int6.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center" vetical-aling="top"> 
+  <img  src="assets/int7.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int8.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center" vetical-aling="top"> 
+  <img  src="assets/int9.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int10.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center" vetical-aling="top"> 
+  <img  src="assets/int11.png" alt="Interface PJM" title="Interface PJM" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="assets/int12.png" alt="Meus Pagamentos" title="Meus Pagamentos" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 💻 Projeto
