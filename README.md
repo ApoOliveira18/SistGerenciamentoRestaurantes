@@ -11,8 +11,8 @@
 </p>
 
 <p align="center" vetical-aling="top"> 
- <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  src="assets/int4.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+ <img  src="assets/int3.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<
+  <img  src="assets/int4.png" alt="Adicionar Cursos" title="Adicionar Cursos" width="400" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
 </p>
 
 <p align="center" vetical-aling="top"> 
